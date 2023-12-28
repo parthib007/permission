@@ -11,6 +11,7 @@ body {
     position: absolute;
     margin-left: 150px;
     transition: 0.5s;
+    text-align: center;
 }
 
 #yesButton {
